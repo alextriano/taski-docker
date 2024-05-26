@@ -1,5 +1,5 @@
 ## Taski
-![yamdb_workflow.yml](https://github.com/alextriano/foodgram-project-react/actions/workflows/main.yml/badge.svg) - в настоящее время у меня нет сервера для деплоя проекта, поэтому workflow не выполняется до конца.
+![yamdb_workflow.yml](https://github.com/alextriano/taski-docker/actions/workflows/main.yml/badge.svg) - в настоящее время у меня нет сервера для деплоя проекта, поэтому workflow не выполняется до конца.
 ### Описание
 Через сервис Taski пользователи могут создавать новые задачи и отмечать уже выполненые.
 ### Как запустить проект на сервере:
